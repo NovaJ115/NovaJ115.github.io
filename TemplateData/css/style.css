@@ -7,7 +7,7 @@ body{
 	background-size:cover;
 	font-style: regular;
 	font-family:"Myriad Pro", Myriad,"Helvetica Neue", Helvetica, Arial, sans-serif;
-	background-color:#6db0f2;
+	background-color:#0068b3;
 }
 
 .webgl-content,#loadingBlock,#errorBrowserBlock{
@@ -136,7 +136,7 @@ body{
 	
 	.keepRatio{
 		width:100%;
-		padding-top: 75%;
+		padding-top: 56.25%;
 		position: relative;
 		top: 50%;
 		transform: translateY(-50%);
