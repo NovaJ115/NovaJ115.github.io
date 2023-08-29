@@ -7,7 +7,7 @@ body{
 	background-size:cover;
 	font-style: regular;
 	font-family:"Myriad Pro", Myriad,"Helvetica Neue", Helvetica, Arial, sans-serif;
-	background-color:#f0f0f1;
+	background-color:#0068b3;
 }
 
 .webgl-content,#loadingBlock,#errorBrowserBlock{
